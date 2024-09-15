@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "myproject1.app"
-               BlueprintName = "myproject1"
-               ReferencedContainer = "container:myproject1.xcodeproj">
+               BuildableName = "hala-b-saudi.app"
+               BlueprintName = "hala-b-saudi"
+               ReferencedContainer = "container:hala-b-saudi.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "myproject1Tests.xctest"
-               BlueprintName = "myproject1Tests"
-               ReferencedContainer = "container:myproject1.xcodeproj">
+               BuildableName = "hala-b-saudiTests.xctest"
+               BlueprintName = "hala-b-saudiTests"
+               ReferencedContainer = "container:hala-b-saudi.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "myproject1.app"
-            BlueprintName = "myproject1"
-            ReferencedContainer = "container:myproject1.xcodeproj">
+            BuildableName = "hala-b-saudi.app"
+            BlueprintName = "hala-b-saudi"
+            ReferencedContainer = "container:hala-b-saudi.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "myproject1.app"
-            BlueprintName = "myproject1"
-            ReferencedContainer = "container:myproject1.xcodeproj">
+            BuildableName = "hala-b-saudi.app"
+            BlueprintName = "hala-b-saudi"
+            ReferencedContainer = "container:hala-b-saudi.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
