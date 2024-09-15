@@ -1,4 +1,4 @@
-package com.myproject1
+package com.hala.b.saudi.service
 
 import android.app.Application
 import com.facebook.react.PackageList
